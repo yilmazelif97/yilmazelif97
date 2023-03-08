@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elif</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **.Net Core, Node.js**
+- 🌱 I’m currently learning **.Net Core, Node.js, React**
 
 - 🤝 I’m looking for help with **my coding skills**
 
